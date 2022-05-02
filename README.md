@@ -1,0 +1,2 @@
+# Guess-the-missing-state-game
+You are given a map of the U.S. and you have to try and guess the name of each state. When guessed correctly, the name of the correct state is printed on to the location of the state on the map, which is taken from an imported csv file. When exiting the game when typing the keyword "exit", you end the game, and a separate csv file Is made containing all of the remaining states that you weren't able to guess. 
